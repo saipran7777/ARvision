@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 146c3b7b4c025b9489e7602f706167ba
+timeCreated: 1472574031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289675]
+    100004: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289711]
+    100006: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289742]
+    100008: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289778]
+    100010: Doors_IntSgl 810x2110mm [289847]
+    100012: Floor Floor-Upper_160mmConc-CorusComFlor51 [290663]
+    100014: Floor Floor-Upper_160mmConc-CorusComFlor51 [290693]
+    100016: //RootNode
+    100018: Windows_Sgl_Plain 910x910mm [289996]
+    400000: '3D View: {3D}'
+    400002: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289675]
+    400004: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289711]
+    400006: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289742]
+    400008: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289778]
+    400010: Doors_IntSgl 810x2110mm [289847]
+    400012: Floor Floor-Upper_160mmConc-CorusComFlor51 [290663]
+    400014: Floor Floor-Upper_160mmConc-CorusComFlor51 [290693]
+    400016: //RootNode
+    400018: Windows_Sgl_Plain 910x910mm [289996]
+    2300000: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289675]
+    2300002: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289711]
+    2300004: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289742]
+    2300006: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289778]
+    2300008: Doors_IntSgl 810x2110mm [289847]
+    2300010: Floor Floor-Upper_160mmConc-CorusComFlor51 [290663]
+    2300012: Floor Floor-Upper_160mmConc-CorusComFlor51 [290693]
+    2300014: Windows_Sgl_Plain 910x910mm [289996]
+    3300000: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289675]
+    3300002: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289711]
+    3300004: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289742]
+    3300006: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289778]
+    3300008: Doors_IntSgl 810x2110mm [289847]
+    3300010: Floor Floor-Upper_160mmConc-CorusComFlor51 [290663]
+    3300012: Floor Floor-Upper_160mmConc-CorusComFlor51 [290693]
+    3300014: Windows_Sgl_Plain 910x910mm [289996]
+    4300000: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289675]
+    4300002: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289711]
+    4300004: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289742]
+    4300006: Basic Wall Wall-Ext_102Bwk-75Ins-100LBlk-12P [289778]
+    4300008: Doors_IntSgl 810x2110mm [289847]
+    4300010: Windows_Sgl_Plain 910x910mm [289996]
+    4300012: Floor Floor-Upper_160mmConc-CorusComFlor51 [290663]
+    4300014: Floor Floor-Upper_160mmConc-CorusComFlor51 [290693]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
